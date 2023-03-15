@@ -43,7 +43,7 @@ The graph shows a wide range of campaign success, with Campaign Two being the le
 ## Bringing Home the Bacon
 <br><br>
 The proof is in the pudding:
-<br>
+<br><br>
 -Customers spend a total of $1.24 million, with more than half of customers spending less than $418. <br>
 -Income can explain almost 70% of variance in the amount of customers spent. <br>
 -On average, 7.5% of customers placed an order in response to a marketing campaign, with over 15% of customers acting on the most recent campaign.
