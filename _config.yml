@@ -1,10 +1,9 @@
 title: Callie Cowart # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Passionate data-driven professional who takes pride in creating simple solutions to complex problems.  <br><br>
   Looking to help your business make better decisions using data. <br><br>
-  <br><br>
-  Musician, reader, and foodie.
+  Musician, reader, and foodie. <br>
   <a href="https://www.linkedin.com/in/calliecowart/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
