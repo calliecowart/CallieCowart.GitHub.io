@@ -1,4 +1,4 @@
-### Data Dash
+# Data Dash
 <br><br>
 ## A Deep Dive into DoorDash Data
 <br><br>
@@ -21,6 +21,33 @@ Based on what I was trying to find out, I deemed these columns relevant for anal
 ## All You Can Eat Insights
 <br><br>
 Using various aggregate functions in Excel, I was able to learn more about how customers use iFood, as shown in the Summary Table. The total amount purchased by 2,205 unique customers from 2014-2016 was $1.24 million, with each customer averaging at $562.76.
-<br>
+<br><br>
 <img src="images/Graph1.png?raw=true"/>
 <br><br>
+While the average amount spent per customer from 2014-2016 is $562.76, we can see from the Amount Total Histogram that over half of the customers spent between $4 and $418.50 within this time frame. Based on this information, the company may benefit from marketing toward those who spend lower amounts in order to increase the amount of higher spenders in future campaigns.
+<br><br>
+<img src="images/Graph2.png?raw=true"/>
+<br><br>
+After learning how much people spent on iFood services, I was curious to know why some people spent more on food delivery than others. Looking at the Income vs Total Spent scatter plot, we can see that there is a correlation between the customer's income and how much they spent. The R² value tells us that the income level explains almost 70% of variance in the amount spent. With this information, the marketing team can target customers with higher income in marketing campaigns.
+<br>
+After considering who may be more inclined to spend money following a marketing campaign, I wanted to know how many customers actually accepted marketing campaigns.
+<br><br>
+<img src="images/Graph3.png?raw=true"/>
+<br><br>
+Looking at the Campaign Orders graph, we can see how many people purchased from iFood following each of six total marketing campaigns between 2014-2016, with an average of 7.5% of customers responding to each marketing campaign.
+<br>
+The graph shows a wide range of campaign success, with Campaign Two being the least successful at 30 customer purchases, and the most recent campaign, Campaign Six, having the most success with 333 customers acting on this campaign. From this, the marketing team can tailor future campaigns to be more similar in marketing style and value to Campaign Six compared to that of Campaign Two.
+<br><br>
+<img src="images/Graph3.png?raw=true"/>
+<br><br>
+## Bringing Home the Bacon
+<br><br>
+The proof is in the pudding:
+<br>
+-Customers spend a total of $1.24 million, with more than half of customers spending less than $418. <br>
+-Income can explain almost 70% of variance in the amount of customers spent. <br>
+-On average, 7.5% of customers placed an order in response to a marketing campaign, with over 15% of customers acting on the most recent campaign.
+<br><br>
+## Feast On
+<br><br>
+Thank you for checking out my DoorDash project. I appreciate any feedback or questions. Connect with me on [LinkedIn](https://www.linkedin.com/in/calliecowart/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BfUnb6pZCSdWLHY%2F4zHOluw%3D%3D), and be on the lookout for future projects from me!
