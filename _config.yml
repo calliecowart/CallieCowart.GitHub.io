@@ -3,7 +3,7 @@ logo: "/images/headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Passionate data-driven professional who takes pride in creating simple solutions to complex problems.  <br><br>
   Looking to help your business make better decisions using data. <br><br>
-  Musician, reader, and foodie. <br>
+  Musician, reader, and foodie. <br><br>
   <a href="https://www.linkedin.com/in/calliecowart/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
